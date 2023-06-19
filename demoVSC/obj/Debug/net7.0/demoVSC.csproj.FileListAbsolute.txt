@@ -1,0 +1,15 @@
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/demoVSC/bin/Debug/net7.0/demoVSC
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/demoVSC/bin/Debug/net7.0/demoVSC.deps.json
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/demoVSC/bin/Debug/net7.0/demoVSC.runtimeconfig.json
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/demoVSC/bin/Debug/net7.0/demoVSC.dll
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/demoVSC/bin/Debug/net7.0/demoVSC.pdb
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/demoVSC/obj/Debug/net7.0/demoVSC.csproj.AssemblyReference.cache
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/demoVSC/obj/Debug/net7.0/demoVSC.GeneratedMSBuildEditorConfig.editorconfig
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/demoVSC/obj/Debug/net7.0/demoVSC.AssemblyInfoInputs.cache
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/demoVSC/obj/Debug/net7.0/demoVSC.AssemblyInfo.cs
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/demoVSC/obj/Debug/net7.0/demoVSC.csproj.CoreCompileInputs.cache
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/demoVSC/obj/Debug/net7.0/demoVSC.dll
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/demoVSC/obj/Debug/net7.0/refint/demoVSC.dll
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/demoVSC/obj/Debug/net7.0/demoVSC.pdb
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/demoVSC/obj/Debug/net7.0/demoVSC.genruntimeconfig.cache
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/demoVSC/obj/Debug/net7.0/ref/demoVSC.dll
