@@ -1,0 +1,15 @@
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/clase04/bin/Debug/net7.0/clase04
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/clase04/bin/Debug/net7.0/clase04.deps.json
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/clase04/bin/Debug/net7.0/clase04.runtimeconfig.json
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/clase04/bin/Debug/net7.0/clase04.dll
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/clase04/bin/Debug/net7.0/clase04.pdb
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/clase04/obj/Debug/net7.0/clase04.csproj.AssemblyReference.cache
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/clase04/obj/Debug/net7.0/clase04.GeneratedMSBuildEditorConfig.editorconfig
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/clase04/obj/Debug/net7.0/clase04.AssemblyInfoInputs.cache
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/clase04/obj/Debug/net7.0/clase04.AssemblyInfo.cs
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/clase04/obj/Debug/net7.0/clase04.csproj.CoreCompileInputs.cache
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/clase04/obj/Debug/net7.0/clase04.dll
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/clase04/obj/Debug/net7.0/refint/clase04.dll
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/clase04/obj/Debug/net7.0/clase04.pdb
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/clase04/obj/Debug/net7.0/clase04.genruntimeconfig.cache
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/clase04/obj/Debug/net7.0/ref/clase04.dll
