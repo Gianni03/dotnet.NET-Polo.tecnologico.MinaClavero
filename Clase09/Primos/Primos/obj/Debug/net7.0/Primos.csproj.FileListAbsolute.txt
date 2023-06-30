@@ -1,0 +1,15 @@
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/Clase09/Primos/Primos/bin/Debug/net7.0/Primos
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/Clase09/Primos/Primos/bin/Debug/net7.0/Primos.deps.json
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/Clase09/Primos/Primos/bin/Debug/net7.0/Primos.runtimeconfig.json
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/Clase09/Primos/Primos/bin/Debug/net7.0/Primos.dll
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/Clase09/Primos/Primos/bin/Debug/net7.0/Primos.pdb
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/Clase09/Primos/Primos/obj/Debug/net7.0/Primos.csproj.AssemblyReference.cache
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/Clase09/Primos/Primos/obj/Debug/net7.0/Primos.GeneratedMSBuildEditorConfig.editorconfig
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/Clase09/Primos/Primos/obj/Debug/net7.0/Primos.AssemblyInfoInputs.cache
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/Clase09/Primos/Primos/obj/Debug/net7.0/Primos.AssemblyInfo.cs
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/Clase09/Primos/Primos/obj/Debug/net7.0/Primos.csproj.CoreCompileInputs.cache
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/Clase09/Primos/Primos/obj/Debug/net7.0/Primos.dll
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/Clase09/Primos/Primos/obj/Debug/net7.0/refint/Primos.dll
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/Clase09/Primos/Primos/obj/Debug/net7.0/Primos.pdb
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/Clase09/Primos/Primos/obj/Debug/net7.0/Primos.genruntimeconfig.cache
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/Clase09/Primos/Primos/obj/Debug/net7.0/ref/Primos.dll
