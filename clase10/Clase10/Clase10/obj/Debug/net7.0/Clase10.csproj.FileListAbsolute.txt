@@ -1,0 +1,15 @@
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/clase10/Clase10/Clase10/bin/Debug/net7.0/Clase10
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/clase10/Clase10/Clase10/bin/Debug/net7.0/Clase10.deps.json
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/clase10/Clase10/Clase10/bin/Debug/net7.0/Clase10.runtimeconfig.json
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/clase10/Clase10/Clase10/bin/Debug/net7.0/Clase10.dll
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/clase10/Clase10/Clase10/bin/Debug/net7.0/Clase10.pdb
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/clase10/Clase10/Clase10/obj/Debug/net7.0/Clase10.csproj.AssemblyReference.cache
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/clase10/Clase10/Clase10/obj/Debug/net7.0/Clase10.GeneratedMSBuildEditorConfig.editorconfig
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/clase10/Clase10/Clase10/obj/Debug/net7.0/Clase10.AssemblyInfoInputs.cache
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/clase10/Clase10/Clase10/obj/Debug/net7.0/Clase10.AssemblyInfo.cs
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/clase10/Clase10/Clase10/obj/Debug/net7.0/Clase10.csproj.CoreCompileInputs.cache
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/clase10/Clase10/Clase10/obj/Debug/net7.0/Clase10.dll
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/clase10/Clase10/Clase10/obj/Debug/net7.0/refint/Clase10.dll
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/clase10/Clase10/Clase10/obj/Debug/net7.0/Clase10.pdb
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/clase10/Clase10/Clase10/obj/Debug/net7.0/Clase10.genruntimeconfig.cache
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/clase10/Clase10/Clase10/obj/Debug/net7.0/ref/Clase10.dll
