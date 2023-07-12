@@ -1,0 +1,15 @@
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/Clase13/Encapsulamiento/Encapsulamiento/bin/Debug/net7.0/Encapsulamiento
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/Clase13/Encapsulamiento/Encapsulamiento/bin/Debug/net7.0/Encapsulamiento.deps.json
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/Clase13/Encapsulamiento/Encapsulamiento/bin/Debug/net7.0/Encapsulamiento.runtimeconfig.json
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/Clase13/Encapsulamiento/Encapsulamiento/bin/Debug/net7.0/Encapsulamiento.dll
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/Clase13/Encapsulamiento/Encapsulamiento/bin/Debug/net7.0/Encapsulamiento.pdb
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/Clase13/Encapsulamiento/Encapsulamiento/obj/Debug/net7.0/Encapsulamiento.csproj.AssemblyReference.cache
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/Clase13/Encapsulamiento/Encapsulamiento/obj/Debug/net7.0/Encapsulamiento.GeneratedMSBuildEditorConfig.editorconfig
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/Clase13/Encapsulamiento/Encapsulamiento/obj/Debug/net7.0/Encapsulamiento.AssemblyInfoInputs.cache
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/Clase13/Encapsulamiento/Encapsulamiento/obj/Debug/net7.0/Encapsulamiento.AssemblyInfo.cs
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/Clase13/Encapsulamiento/Encapsulamiento/obj/Debug/net7.0/Encapsulamiento.csproj.CoreCompileInputs.cache
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/Clase13/Encapsulamiento/Encapsulamiento/obj/Debug/net7.0/Encapsulamiento.dll
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/Clase13/Encapsulamiento/Encapsulamiento/obj/Debug/net7.0/refint/Encapsulamiento.dll
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/Clase13/Encapsulamiento/Encapsulamiento/obj/Debug/net7.0/Encapsulamiento.pdb
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/Clase13/Encapsulamiento/Encapsulamiento/obj/Debug/net7.0/Encapsulamiento.genruntimeconfig.cache
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/Clase13/Encapsulamiento/Encapsulamiento/obj/Debug/net7.0/ref/Encapsulamiento.dll

@@ -1,0 +1,15 @@
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/Clase13/Clase13/obj/Debug/net7.0/Clase13.csproj.AssemblyReference.cache
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/Clase13/Clase13/obj/Debug/net7.0/Clase13.GeneratedMSBuildEditorConfig.editorconfig
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/Clase13/Clase13/obj/Debug/net7.0/Clase13.AssemblyInfoInputs.cache
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/Clase13/Clase13/obj/Debug/net7.0/Clase13.AssemblyInfo.cs
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/Clase13/Clase13/obj/Debug/net7.0/Clase13.csproj.CoreCompileInputs.cache
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/Clase13/Clase13/bin/Debug/net7.0/Clase13
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/Clase13/Clase13/bin/Debug/net7.0/Clase13.deps.json
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/Clase13/Clase13/bin/Debug/net7.0/Clase13.runtimeconfig.json
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/Clase13/Clase13/bin/Debug/net7.0/Clase13.dll
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/Clase13/Clase13/bin/Debug/net7.0/Clase13.pdb
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/Clase13/Clase13/obj/Debug/net7.0/Clase13.dll
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/Clase13/Clase13/obj/Debug/net7.0/refint/Clase13.dll
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/Clase13/Clase13/obj/Debug/net7.0/Clase13.pdb
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/Clase13/Clase13/obj/Debug/net7.0/Clase13.genruntimeconfig.cache
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/Clase13/Clase13/obj/Debug/net7.0/ref/Clase13.dll
