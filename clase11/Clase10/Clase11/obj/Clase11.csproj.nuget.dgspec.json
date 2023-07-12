@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/clase11/Clase10/Clase11/Clase11.csproj": {}
+  },
+  "projects": {
+    "/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/clase11/Clase10/Clase11/Clase11.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/clase11/Clase10/Clase11/Clase11.csproj",
+        "projectName": "Clase11",
+        "projectPath": "/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/clase11/Clase10/Clase11/Clase11.csproj",
+        "packagesPath": "/home/gianni/.nuget/packages/",
+        "outputPath": "/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/clase11/Clase10/Clase11/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/gianni/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/gianni/.dotnet/sdk/7.0.304/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
