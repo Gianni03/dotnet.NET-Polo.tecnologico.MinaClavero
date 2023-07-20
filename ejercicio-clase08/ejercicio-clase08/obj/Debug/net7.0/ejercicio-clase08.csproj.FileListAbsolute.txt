@@ -1,0 +1,15 @@
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/ejercicio-clase08/ejercicio-clase08/obj/Debug/net7.0/ejercicio-clase08.csproj.AssemblyReference.cache
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/ejercicio-clase08/ejercicio-clase08/obj/Debug/net7.0/ejercicio-clase08.GeneratedMSBuildEditorConfig.editorconfig
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/ejercicio-clase08/ejercicio-clase08/obj/Debug/net7.0/ejercicio-clase08.AssemblyInfoInputs.cache
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/ejercicio-clase08/ejercicio-clase08/obj/Debug/net7.0/ejercicio-clase08.AssemblyInfo.cs
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/ejercicio-clase08/ejercicio-clase08/obj/Debug/net7.0/ejercicio-clase08.csproj.CoreCompileInputs.cache
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/ejercicio-clase08/ejercicio-clase08/bin/Debug/net7.0/ejercicio-clase08
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/ejercicio-clase08/ejercicio-clase08/bin/Debug/net7.0/ejercicio-clase08.deps.json
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/ejercicio-clase08/ejercicio-clase08/bin/Debug/net7.0/ejercicio-clase08.runtimeconfig.json
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/ejercicio-clase08/ejercicio-clase08/bin/Debug/net7.0/ejercicio-clase08.dll
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/ejercicio-clase08/ejercicio-clase08/bin/Debug/net7.0/ejercicio-clase08.pdb
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/ejercicio-clase08/ejercicio-clase08/obj/Debug/net7.0/ejercicio-clase08.dll
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/ejercicio-clase08/ejercicio-clase08/obj/Debug/net7.0/refint/ejercicio-clase08.dll
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/ejercicio-clase08/ejercicio-clase08/obj/Debug/net7.0/ejercicio-clase08.pdb
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/ejercicio-clase08/ejercicio-clase08/obj/Debug/net7.0/ejercicio-clase08.genruntimeconfig.cache
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/ejercicio-clase08/ejercicio-clase08/obj/Debug/net7.0/ref/ejercicio-clase08.dll
