@@ -59,7 +59,7 @@ for (int f = 0; f < filas; f++)
 Console.WriteLine();
 Console.WriteLine("Los promedios son:");
 
-for (int c = 0; c < columnas; c++)
+for (int c = 0; c < UPPER; c++)
 {
   Console.Write($"{promedios[c]:00.00} ");
 }

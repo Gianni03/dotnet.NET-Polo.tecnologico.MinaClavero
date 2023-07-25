@@ -1,0 +1,15 @@
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/Clase 14 Herencia/Clase 14 Herencia/bin/Debug/net7.0/Clase 14 Herencia
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/Clase 14 Herencia/Clase 14 Herencia/bin/Debug/net7.0/Clase 14 Herencia.deps.json
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/Clase 14 Herencia/Clase 14 Herencia/bin/Debug/net7.0/Clase 14 Herencia.runtimeconfig.json
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/Clase 14 Herencia/Clase 14 Herencia/bin/Debug/net7.0/Clase 14 Herencia.dll
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/Clase 14 Herencia/Clase 14 Herencia/bin/Debug/net7.0/Clase 14 Herencia.pdb
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/Clase 14 Herencia/Clase 14 Herencia/obj/Debug/net7.0/Clase 14 Herencia.csproj.AssemblyReference.cache
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/Clase 14 Herencia/Clase 14 Herencia/obj/Debug/net7.0/Clase 14 Herencia.GeneratedMSBuildEditorConfig.editorconfig
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/Clase 14 Herencia/Clase 14 Herencia/obj/Debug/net7.0/Clase 14 Herencia.AssemblyInfoInputs.cache
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/Clase 14 Herencia/Clase 14 Herencia/obj/Debug/net7.0/Clase 14 Herencia.AssemblyInfo.cs
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/Clase 14 Herencia/Clase 14 Herencia/obj/Debug/net7.0/Clase 14 Herencia.csproj.CoreCompileInputs.cache
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/Clase 14 Herencia/Clase 14 Herencia/obj/Debug/net7.0/Clase 14 Herencia.dll
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/Clase 14 Herencia/Clase 14 Herencia/obj/Debug/net7.0/refint/Clase 14 Herencia.dll
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/Clase 14 Herencia/Clase 14 Herencia/obj/Debug/net7.0/Clase 14 Herencia.pdb
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/Clase 14 Herencia/Clase 14 Herencia/obj/Debug/net7.0/Clase 14 Herencia.genruntimeconfig.cache
+/home/gianni/Escritorio/front-end dev/curso front-end/001 .NET - poloTec MinaClavero/Clase 14 Herencia/Clase 14 Herencia/obj/Debug/net7.0/ref/Clase 14 Herencia.dll
